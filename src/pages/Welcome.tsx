@@ -1,7 +1,7 @@
-import {useSearchParams} from 'react-router-dom';
+// import {useSearchParams} from 'react-router-dom';
 
 export const Welcome = () => {
-    let [searchParams] = useSearchParams();
+    // let [searchParams] = useSearchParams();
 
     // const id = searchParams.get('id');
 
